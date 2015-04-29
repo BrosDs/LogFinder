@@ -1,1 +1,2 @@
 # LogFinder
+Best README evar!
