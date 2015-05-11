@@ -1,0 +1,4 @@
+C:/cygwin64\var\log\setup.log
+C:/Intel\Logs\IntelAMT.log
+C:/Intel\Logs\IntelChipset.log
+C:/Intel\Logs\IntelIRST.log
