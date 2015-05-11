@@ -1,0 +1,657 @@
+C:/cygwin64\var\log\setup.log
+C:/Intel\Logs\IntelAMT.log
+C:/Intel\Logs\IntelChipset.log
+C:/Intel\Logs\IntelIRST.log
+C:/Program Files (x86)\Firefox Developer Edition\install.log
+C:/Program Files (x86)\Firefox Developer Edition\uninstall\uninstall.log
+C:/ProgramData\CheckPoint\ZoneAlarm\Logs\tvDebug.log
+C:/ProgramData\CheckPoint\ZoneAlarm\Logs\ZAPrivacy.log
+C:/ProgramData\Intel\iCLS Client\heciserver.log
+C:/ProgramData\Intel\Intel(R) ME FW Recovery Agent\agent.log
+C:/ProgramData\Intel\Intel(R) ME FW Recovery Agent\CrashEvents.log
+C:/ProgramData\Microsoft\RAC\PublishedData\wmi.log
+C:/ProgramData\Microsoft\RAC\PublishedData\wmi0000A.log
+C:/ProgramData\Microsoft\RAC\PublishedData\wmitmp.log
+C:/ProgramData\Microsoft\RAC\StateData\rac.log
+C:/ProgramData\Microsoft\RAC\StateData\rac0000C.log
+C:/ProgramData\Microsoft\RAC\StateData\ractmp.log
+C:/ProgramData\Mozilla\logs\maintenanceservice-1.log
+C:/ProgramData\Mozilla\logs\maintenanceservice-10.log
+C:/ProgramData\Mozilla\logs\maintenanceservice-2.log
+C:/ProgramData\Mozilla\logs\maintenanceservice-3.log
+C:/ProgramData\Mozilla\logs\maintenanceservice-4.log
+C:/ProgramData\Mozilla\logs\maintenanceservice-5.log
+C:/ProgramData\Mozilla\logs\maintenanceservice-6.log
+C:/ProgramData\Mozilla\logs\maintenanceservice-7.log
+C:/ProgramData\Mozilla\logs\maintenanceservice-8.log
+C:/ProgramData\Mozilla\logs\maintenanceservice-9.log
+C:/ProgramData\Mozilla\logs\maintenanceservice-install.log
+C:/ProgramData\Mozilla\logs\maintenanceservice.log
+C:/ProgramData\NVIDIA Corporation\nvstlink.log
+C:/ProgramData\NVIDIA Corporation\GeForce Experience\Logs\GfeClientLog.log
+C:/ProgramData\NVIDIA Corporation\GeForce Experience\Logs\LOG.3DVision.exe.log
+C:/ProgramData\NVIDIA Corporation\GeForce Experience\Logs\LOG.DBInstaller.exe.log
+C:/ProgramData\NVIDIA Corporation\GeForce Experience\Logs\LOG.DrvInst.exe.log
+C:/ProgramData\NVIDIA Corporation\GeForce Experience\Logs\LOG.GfExperienceService.exe.log
+C:/ProgramData\NVIDIA Corporation\GeForce Experience\Logs\LOG.NVCPLSetupInt.exe.log
+C:/ProgramData\NVIDIA Corporation\GeForce Experience\Logs\LOG.RunDll32.EXE.log
+C:/ProgramData\NVIDIA Corporation\GeForce Experience\Logs\LOG.setup.exe.log
+C:/ProgramData\NVIDIA Corporation\NetService\NvNetService.log
+C:/ProgramData\NVIDIA Corporation\nvStreamSvc\nssCurrent.log
+C:/ProgramData\NVIDIA Corporation\nvStreamSvc\nssOld.log
+C:/ProgramData\NVIDIA Corporation\nvStreamSvc\nvstreamsvcCurrent.log
+C:/ProgramData\NVIDIA Corporation\nvStreamSvc\nvstreamsvcOld.log
+C:/ProgramData\NVIDIA Corporation\nvStreamSvc\SSASCurrent.log
+C:/ProgramData\NVIDIA Corporation\nvStreamSvc\SSASOld.log
+C:/Users\BrosDs\agent.log
+C:/Users\BrosDs\.AndroidStudio\system\log\idea.log
+C:/Users\BrosDs\.clion10\system\log\idea.log
+C:/Users\BrosDs\.gradle\daemon\2.1\daemon-956.out.log
+C:/Users\BrosDs\.gradle\daemon\2.2.1\daemon-3144.out.log
+C:/Users\BrosDs\.gradle\daemon\2.2.1\daemon-3676.out.log
+C:/Users\BrosDs\.gradle\daemon\2.2.1\daemon-3904.out.log
+C:/Users\BrosDs\.gradle\daemon\2.2.1\daemon-4632.out.log
+C:/Users\BrosDs\.gradle\daemon\2.2.1\daemon-5892.out.log
+C:/Users\BrosDs\.gradle\daemon\2.2.1\daemon-852.out.log
+C:/Users\BrosDs\.IntelliJIdea14\system\log\idea.log
+C:/Users\BrosDs\.IntelliJIdea14\system\log\idea_updater.log
+C:/Users\BrosDs\.IntelliJIdea14\system\log\idea_updater_error.log
+C:/Users\BrosDs\.IntelliJIdea14\system\log\build-log\build.log
+C:/Users\BrosDs\.PyCharm40\system\log\idea.log
+C:/Users\BrosDs\.VirtualBox\selectorwindow.log
+C:/Users\BrosDs\.VirtualBox\VBoxSVC.log
+C:/Users\BrosDs\.WebIde80\system\log\idea.log
+C:/Users\BrosDs\.WebStorm9\system\log\idea.log
+C:/Users\BrosDs\AppData\Local\Adobe\AAMUpdater\1.0\aamu.log
+C:/Users\BrosDs\AppData\Local\Adobe\AAMUpdater\1.0\aamui.log
+C:/Users\BrosDs\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log
+C:/Users\BrosDs\AppData\Local\Adobe\AAMUpdater\1.0\aamun.log
+C:/Users\BrosDs\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Extension Rules\000075.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Extension Rules\000077.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Extension Rules\000078.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Extension Rules\000079.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Extension State\000437.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\000\t\Paths\000006.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\001\p\Paths\000263.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\001\p\Paths\000266.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\001\p\Paths\000267.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\001\p\Paths\000268.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\001\p\Paths\000269.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\001\p\Paths\000270.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\001\p\Paths\000271.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\001\p\Paths\000272.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\001\p\Paths\000273.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\001\p\Paths\000274.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\001\p\Paths\000275.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\001\p\Paths\000276.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\001\p\Paths\000277.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\001\p\Paths\000278.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\002\t\Paths\000003.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000018.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000020.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000021.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000022.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000023.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000024.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000025.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000026.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000027.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000028.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000029.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000030.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000031.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000032.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000033.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000034.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000035.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000036.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000037.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000038.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000039.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000040.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000041.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000042.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000043.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000044.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000045.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000046.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000047.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000048.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000049.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000050.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000051.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000052.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000053.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000054.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000055.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000056.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000057.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000058.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000059.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000060.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000061.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000062.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000063.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000064.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000065.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000066.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000067.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000068.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000069.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000070.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\003\t\Paths\000071.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000168.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000170.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000171.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000172.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000173.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000176.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000177.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000178.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000179.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000180.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000181.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000182.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000183.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000184.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000185.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000186.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000187.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000188.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000189.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000190.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000191.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000192.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000193.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000194.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000195.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000196.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000197.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000198.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000199.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000200.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000201.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000202.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000203.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000204.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000205.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000206.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000207.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000208.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000209.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000210.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000211.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000212.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000213.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000214.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000215.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000216.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000217.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000218.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000219.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000220.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000221.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000222.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000223.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000224.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000225.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000226.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000227.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000228.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000229.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000230.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000231.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000232.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000233.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000234.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000235.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000236.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000237.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000238.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000239.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000240.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000241.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000242.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000243.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000244.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000245.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000246.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000247.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000248.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000249.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000250.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000251.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000252.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000253.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000254.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000255.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000256.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000257.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000258.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000259.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000260.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000261.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000262.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000263.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000264.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000265.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000266.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000267.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000268.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000269.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000270.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000271.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000272.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000273.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000274.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000275.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000276.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000277.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000278.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000279.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000280.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000281.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000282.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000283.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000284.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000285.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000286.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000287.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000288.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000289.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000290.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000291.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000292.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000293.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000294.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000295.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000296.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000297.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000298.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000299.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000300.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000301.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000302.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000303.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000304.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000305.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000306.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000307.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000308.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000309.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000310.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000311.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000312.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000313.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000314.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000315.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\GCM Store\000435.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\chrome-extension_boadgeojelhgndaghljhdicfkmllpafd_0.indexeddb.leveldb\000003.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_0.docs.google.com_0.indexeddb.leveldb\000006.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_accounts.google.com_0.indexeddb.leveldb\000006.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_clients5.google.com_0.indexeddb.leveldb\000006.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_clients6.google.com_0.indexeddb.leveldb\000006.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_docs.google.com_0.indexeddb.leveldb\001081.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_drive.google.com_0.indexeddb.leveldb\000734.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_github.com_0.indexeddb.leveldb\000006.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_inbox.google.com_0.indexeddb.leveldb\000087.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb\000009.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.google.it_0.indexeddb.leveldb\000951.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb\000003.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\http_domoshades-apis.appspot.com_0.indexeddb.leveldb\000003.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\http_it.socialclub.rockstargames.com_0.indexeddb.leveldb\000003.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\http_localhost_8080.indexeddb.leveldb\000003.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\http_xlabserver3.biomed.unimo.it_0.indexeddb.leveldb\000008.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000003.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000003.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\pafkbggdmjlpgkdkcbjmhmfcdpncadgh\000434.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Session Storage\000454.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000086.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000088.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000089.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000090.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000091.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000092.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000093.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000094.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000095.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000096.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000097.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000098.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000099.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000100.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000101.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000102.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000103.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000104.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000105.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000106.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000107.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000108.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000109.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000110.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000111.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000112.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000113.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000114.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000115.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000116.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000117.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000118.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000119.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000120.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000121.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000122.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000123.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000124.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000125.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000126.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000127.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000128.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000129.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000130.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000131.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000132.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000133.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000134.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000135.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000136.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000137.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000138.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000139.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000140.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000141.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000142.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000143.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000144.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000145.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000146.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000147.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000148.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000149.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000150.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000151.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000152.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000153.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000154.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000155.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000156.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000157.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000158.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000159.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000160.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000161.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000162.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000163.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000164.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000165.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000166.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000167.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000168.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000169.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000170.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000171.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000172.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000173.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000174.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000175.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000176.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000177.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000178.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\boadgeojelhgndaghljhdicfkmllpafd\000179.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000086.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000088.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000089.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000090.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000091.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000092.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000093.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000094.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000095.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000096.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000097.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000098.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000099.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000100.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000101.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000102.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000103.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000104.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000105.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000106.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000107.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000108.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000109.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000110.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000111.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000112.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000113.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000114.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000115.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000116.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000117.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000118.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000119.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000120.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000121.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000122.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000123.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000124.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000125.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000126.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000127.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000128.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000129.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000130.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000131.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000132.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000133.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000134.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000135.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000136.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000137.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000138.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000139.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000140.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000141.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000142.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000143.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000144.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000145.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000146.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000147.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000148.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000149.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000150.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000151.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000152.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000153.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000154.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000155.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000156.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000157.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000158.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000159.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000160.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000161.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000162.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000163.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000164.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000165.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000166.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000167.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000168.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000169.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000170.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000171.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000172.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000173.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000174.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000175.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000176.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000177.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000178.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\ghnomdcacenbmilgjigehppbamfndblo\000179.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000004.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000006.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000007.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000008.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000009.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000010.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000011.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000012.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000013.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000014.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000015.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000016.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000017.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000018.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000019.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000020.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000021.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000022.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000023.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000024.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000025.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000026.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000027.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000028.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\gmlllbghnfkpflemihljekbapjopfjik\000029.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Guest Profile\Extension Rules\000003.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\Guest Profile\Extension State\000003.log
+C:/Users\BrosDs\AppData\Local\Google\Chrome\User Data\SwReporter\2.16.3\software_reporter_tool.log
+C:/Users\BrosDs\AppData\Local\Microsoft\CLR_v4.0\ngen.log
+C:/Users\BrosDs\AppData\Local\Microsoft\CLR_v4.0\UsageLogs\NGenTask.exe.log
+C:/Users\BrosDs\AppData\Local\Microsoft\CLR_v4.0\UsageLogs\powershell.exe.log
+C:/Users\BrosDs\AppData\Local\Microsoft\CLR_v4.0_32\ngen.log
+C:/Users\BrosDs\AppData\Local\Microsoft\CLR_v4.0_32\UsageLogs\cdbxpp.exe.log
+C:/Users\BrosDs\AppData\Local\Microsoft\CLR_v4.0_32\UsageLogs\devenv.exe.log
+C:/Users\BrosDs\AppData\Local\Microsoft\CLR_v4.0_32\UsageLogs\IAStorIcon.exe.log
+C:/Users\BrosDs\AppData\Local\Microsoft\CLR_v4.0_32\UsageLogs\NGenTask.exe.log
+C:/Users\BrosDs\AppData\Local\Microsoft\CLR_v4.0_32\UsageLogs\updater.exe.log
+C:/Users\BrosDs\AppData\Local\Microsoft\OneDrive\setup\logs\2015-04-18_191820_21c8-900.log
+C:/Users\BrosDs\AppData\Local\Microsoft\OneDrive\setup\logs\2015-04-20_144812_1444-1a78.log
+C:/Users\BrosDs\AppData\Local\Microsoft\OneDrive\setup\logs\2015-04-22_104140_19a4-1dcc.log
+C:/Users\BrosDs\AppData\Local\Microsoft\OneDrive\setup\logs\2015-04-23_161604_1dd4-1144.log
+C:/Users\BrosDs\AppData\Local\Microsoft\OneDrive\setup\logs\2015-04-24_082655_dc4-1d28.log
+C:/Users\BrosDs\AppData\Local\Microsoft\OneDrive\setup\logs\2015-04-26_101517_1bec-11c0.log
+C:/Users\BrosDs\AppData\Local\Microsoft\OneDrive\setup\logs\2015-04-27_082838_1b44-ce8.log
+C:/Users\BrosDs\AppData\Local\Microsoft\OneDrive\setup\logs\2015-04-28_145330_1434-468.log
+C:/Users\BrosDs\AppData\Local\Microsoft\OneDrive\setup\logs\2015-04-29_140414_1910-e70.log
+C:/Users\BrosDs\AppData\Local\Microsoft\OneDrive\setup\logs\2015-04-30_160619_1920-1a7c.log
+C:/Users\BrosDs\AppData\Local\Microsoft\OneDrive\setup\logs\2015-05-03_123634_1bfc-19b8.log
+C:/Users\BrosDs\AppData\Local\Microsoft\OneDrive\setup\logs\2015-05-04_103649_1fe8-aec.log
+C:/Users\BrosDs\AppData\Local\Microsoft\OneDrive\setup\logs\2015-05-07_165323_2194-2678.log
+C:/Users\BrosDs\AppData\Local\Microsoft\OneDrive\setup\logs\2015-05-08_091449_14c8-25d4.log
+C:/Users\BrosDs\AppData\Local\Microsoft\OneDrive\setup\logs\2015-05-10_124656_2498-1a48.log
+C:/Users\BrosDs\AppData\Local\Microsoft\SkyDrive\setup\logs\2015-03-25_151704_255c-2d84.log
+C:/Users\BrosDs\AppData\Local\Microsoft\SkyDrive\setup\logs\2015-03-25_151704_2754-4f8.log
+C:/Users\BrosDs\AppData\Local\Microsoft\SkyDrive\setup\logs\2015-03-25_151704_2fac-33b0.log
+C:/Users\BrosDs\AppData\Local\Microsoft\SkyDrive\setup\logs\2015-03-27_100837_2480-34a4.log
+C:/Users\BrosDs\AppData\Local\Microsoft\Windows\WindowsUpdate.log
+C:/Users\BrosDs\AppData\Local\Microsoft\Windows\SettingSync\metastore\edb.log
+C:/Users\BrosDs\AppData\Local\Microsoft\Windows\SettingSync\metastore\edb00157.log
+C:/Users\BrosDs\AppData\Local\Microsoft\Windows\SettingSync\metastore\edb00158.log
+C:/Users\BrosDs\AppData\Local\Microsoft\Windows\SettingSync\metastore\edbtmp.log
+C:/Users\BrosDs\AppData\Local\Microsoft\Windows\SettingSync\remotemetastore\v1\edb.log
+C:/Users\BrosDs\AppData\Local\Microsoft\Windows\SettingSync\remotemetastore\v1\edb00097.log
+C:/Users\BrosDs\AppData\Local\Microsoft\Windows\SettingSync\remotemetastore\v1\edbtmp.log
+C:/Users\BrosDs\AppData\Local\Microsoft\Windows\SkyDrive\logs\SyncDiagnostics.log
+C:/Users\BrosDs\AppData\Local\Microsoft\Windows\SkyDrive\settings\b1423c778f392e58.log
+C:/Users\BrosDs\AppData\Local\Microsoft\Windows\WebCache\V01.log
+C:/Users\BrosDs\AppData\Local\Microsoft\Windows\WebCache\V0100023.log
+C:/Users\BrosDs\AppData\Local\Microsoft\Windows\WebCache\V0100024.log
+C:/Users\BrosDs\AppData\Local\Microsoft\Windows\WebCache\V01tmp.log
+C:/Users\BrosDs\AppData\Local\Microsoft\Windows Mail\edb.log
+C:/Users\BrosDs\AppData\Local\Microsoft\Windows Mail\edb00001.log
+C:/Users\BrosDs\AppData\Local\Microsoft\Windows Mail\edbtmp.log
+C:/Users\BrosDs\AppData\Local\Microsoft\Windows Mail\Backup\new\edb00001.log
+C:/Users\BrosDs\AppData\Local\Mozilla\updates\FFD4EDB6BAA7D4C3\updates\backup-update.log
+C:/Users\BrosDs\AppData\Local\Mozilla\updates\FFD4EDB6BAA7D4C3\updates\last-update.log
+C:/Users\BrosDs\AppData\Local\NVIDIA\NvBackend\backend.log
+C:/Users\BrosDs\AppData\Local\NVIDIA Corporation\GFExperience\GFExperienceCurrent.log
+C:/Users\BrosDs\AppData\Local\NVIDIA Corporation\GFExperience\GFExperienceOld.log
+C:/Users\BrosDs\AppData\Local\NVIDIA Corporation\ShadowPlay\CaptureCore.log
+C:/Users\BrosDs\AppData\Local\Packages\Microsoft.BingWeather_8wekyb3d8bbwe\AC\Temp\winstore.log
+C:/Users\BrosDs\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\LocalState\LiveComm\b1423c778f392e58\120712-0049\DBStore\LogFiles\edb.log
+C:/Users\BrosDs\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\LocalState\LiveComm\b1423c778f392e58\120712-0049\DBStore\LogFiles\edb00034.log
+C:/Users\BrosDs\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\LocalState\LiveComm\b1423c778f392e58\120712-0049\DBStore\LogFiles\edb00035.log
+C:/Users\BrosDs\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\LocalState\LiveComm\b1423c778f392e58\120712-0049\DBStore\LogFiles\edb00036.log
+C:/Users\BrosDs\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\LocalState\LiveComm\b1423c778f392e58\120712-0049\DBStore\LogFiles\edb00037.log
+C:/Users\BrosDs\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\LocalState\LiveComm\b1423c778f392e58\120712-0049\DBStore\LogFiles\edb00038.log
+C:/Users\BrosDs\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\LocalState\LiveComm\b1423c778f392e58\120712-0049\DBStore\LogFiles\edb00039.log
+C:/Users\BrosDs\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\LocalState\LiveComm\b1423c778f392e58\120712-0049\DBStore\LogFiles\edbtmp.log
+C:/Users\BrosDs\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\AC\Temp\winstore.log
+C:/Users\BrosDs\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\LocalState\Database\2533274837672323\edb.log
+C:/Users\BrosDs\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\LocalState\Database\2533274837672323\edb00001.log
+C:/Users\BrosDs\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\LocalState\Database\2533274837672323\edbtmp.log
+C:/Users\BrosDs\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\LocalState\Database\anonymous\edb.log
+C:/Users\BrosDs\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\LocalState\Database\anonymous\edbtmp.log
+C:/Users\BrosDs\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\2533274837672323\edb.log
+C:/Users\BrosDs\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\2533274837672323\edbtmp.log
+C:/Users\BrosDs\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\anonymous\edb.log
+C:/Users\BrosDs\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\anonymous\edbtmp.log
+C:/Users\BrosDs\AppData\Local\Packages\winstore_cw5n1h2txyewy\AC\Temp\winstore.log
+C:/Users\BrosDs\AppData\Local\pip\Logs\debug.log
+C:/Users\BrosDs\AppData\Local\Plex Media Server\Logs\Plex DLNA Server Neptune.log
+C:/Users\BrosDs\AppData\Local\Plex Media Server\Logs\Plex DLNA Server Neptune.old.log
+C:/Users\BrosDs\AppData\Local\Plex Media Server\Logs\Plex DLNA Server.log
+C:/Users\BrosDs\AppData\Local\Plex Media Server\Logs\Plex Media Server.log
+C:/Users\BrosDs\AppData\Local\Plex Media Server\Logs\PMS Plugin Logs\com.plexapp.agents.htbackdrops.log
+C:/Users\BrosDs\AppData\Local\Plex Media Server\Logs\PMS Plugin Logs\com.plexapp.agents.imdb.log
+C:/Users\BrosDs\AppData\Local\Plex Media Server\Logs\PMS Plugin Logs\com.plexapp.agents.lastfm.log
+C:/Users\BrosDs\AppData\Local\Plex Media Server\Logs\PMS Plugin Logs\com.plexapp.agents.localmedia.log
+C:/Users\BrosDs\AppData\Local\Plex Media Server\Logs\PMS Plugin Logs\com.plexapp.agents.movieposterdb.log
+C:/Users\BrosDs\AppData\Local\Plex Media Server\Logs\PMS Plugin Logs\com.plexapp.agents.none.log
+C:/Users\BrosDs\AppData\Local\Plex Media Server\Logs\PMS Plugin Logs\com.plexapp.agents.opensubtitles.log
+C:/Users\BrosDs\AppData\Local\Plex Media Server\Logs\PMS Plugin Logs\com.plexapp.agents.plexthememusic.log
+C:/Users\BrosDs\AppData\Local\Plex Media Server\Logs\PMS Plugin Logs\com.plexapp.agents.themoviedb.log
+C:/Users\BrosDs\AppData\Local\Plex Media Server\Logs\PMS Plugin Logs\com.plexapp.agents.thetvdb.log
+C:/Users\BrosDs\AppData\Local\Plex Media Server\Logs\PMS Plugin Logs\com.plexapp.agents.wikipedia.log
+C:/Users\BrosDs\AppData\Local\Plex Media Server\Logs\PMS Plugin Logs\com.plexapp.system.log
+C:/Users\BrosDs\AppData\Local\Temp\oobelib.log
+C:/Users\BrosDs\AppData\Local\Temp\PDApp.log
+C:/Users\BrosDs\AppData\Local\Temp\AdobeDownload\DLM.log
+C:/Users\BrosDs\AppData\Local\Temp\SpotifyCrashService\crash_service.log
+C:/Users\BrosDs\AppData\Roaming\Adobe\CEPServiceManager4\logs\CEPServiceManager_native.log
+C:/Users\BrosDs\AppData\Roaming\Adobe\CEPServiceManager4\logs\Vulcan.log
+C:/Users\BrosDs\AppData\Roaming\bower\cache\packages\4b3248bac6c187112723518244e6fe5a\0.5.5\build.log
+C:/Users\BrosDs\AppData\Roaming\bower\cache\packages\6000e00dae2c4a1b827f158835c30d5f\0.5.5\build.log
+C:/Users\BrosDs\AppData\Roaming\Logishrd\LGS8_setup\LGS8_setup.log
+C:/Users\BrosDs\Documents\Virtual Machines\Ubuntu 14.04\Logs\VBox.log
+C:/Users\BrosDs\Documents\Virtual Machines\Ubuntu 14.04\Logs\VBoxStartup.log
+C:/Users\BrosDs\Intel\Logs\IntelRST.log
+C:/Users\BrosDs\Intel\Logs\IntelRST_MSI.log
+C:/Windows\WindowsUpdate.log
+C:/Windows\debug\mrt.log
+C:/Windows\debug\PASSWD.LOG
+C:/Windows\debug\WIA\wiatrace.log
+C:/Windows\Inf\setupapi.dev.log
+C:/Windows\Inf\setupapi.setup.log
+C:/Windows\Logs\CBS\CBS.log
+C:/Windows\Logs\DISM\dism.log
+C:/Windows\Logs\Gwx\ConfigManager.log
+C:/Windows\Microsoft.NET\assembly\GAC_MSIL\System.IO.Log
+C:/Windows\Microsoft.NET\Framework\v4.0.30319\ngen.log
+C:/Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.log
+C:/Windows\Panther\cbs.log
+C:/Windows\Panther\DDACLSys.log
+C:/Windows\Panther\FastCleanup\setupact.log
+C:/Windows\Panther\FastCleanup\setuperr.log
+C:/Windows\security\database\edb.log
+C:/Windows\security\database\edbtmp.log
+C:/Windows\SoftwareDistribution\ReportingEvents.log
+C:/Windows\SoftwareDistribution\DataStore\Logs\edb.log
+C:/Windows\SoftwareDistribution\DataStore\Logs\edb000E5.log
+C:/Windows\SoftwareDistribution\DataStore\Logs\edbtmp.log
+C:/Windows\SoftwareDistribution\Plugins\7D5F3CBA-03DB-4BE5-B4B36DBED19A6833\TokenRetrieval.log
+C:/Windows\System32\catroot2\edb.log
+C:/Windows\System32\catroot2\edb00034.log
+C:/Windows\System32\catroot2\edbtmp.log
+C:/Windows\System32\Sysprep\Panther\IE\setupact.log
+C:/Windows\System32\Sysprep\Panther\IE\setuperr.log
+C:/Windows\SysWOW64\agent.log
+C:/Windows\WinSxS\poqexec.log
+C:/Windows\WinSxS\amd64_microsoft-windows-com-dtc-runtime_31bf3856ad364e35_6.3.9600.16384_none_0a1162f033fa01f6\MSDTC.LOG
+C:/Windows\WinSxS\amd64_microsoft-windows-com-dtc-runtime_31bf3856ad364e35_6.3.9600.17415_none_0a5dfdcc33c06e7e\MSDTC.LOG
