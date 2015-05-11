@@ -6,12 +6,12 @@ import platform
 
 def main():
     root = ""
-    if platform.system() == "Linux":
-        print("Linux")
-        root = "/"
-    elif platform.system() == "Windows":
+    if platform.system() == "Windows":
         print("Windows")
         root = "C:/"
+    else:
+        print("Not Windows")
+        root = "/"
 
     for root, dirs, files in os.walk(root, topdown=True):
         out_file = open("log_list.txt","w")
