@@ -1,0 +1,314 @@
+f4a0efb7eecd1a7716d2e1215355bfc92ce496e92427686f9e6df4e5b7ba0008eba2dba33e9d0ccc3fed73e106f8b45fb1256d5fc8ae63cc279c22ee67709ce6#DIGESTEND#2015/03/16 15:52:50 Starting cygwin install, version 2.870
+2015/03/16 15:52:50 User has backup/restore rights
+2015/03/16 15:52:50 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2015/03/16 15:52:50 Current Directory: C:\Users\BrosDs\Downloads
+2015/03/16 15:52:50 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2015/03/16 15:52:57 source: network install
+2015/03/16 15:53:00 root: C:\cygwin64 system
+2015/03/16 15:53:01 Selected local directory: C:\Users\BrosDs\Downloads
+2015/03/16 15:53:03 net: Direct
+2015/03/16 15:53:08 site: http://cygwin.mirror.constant.com/
+2015/03/16 15:53:22 io_stream_cygfile: fopen(/etc/setup/installed.db) failed 2 No such file or directory
+2015/03/16 15:53:22 io_stream_cygfile: fopen(/etc/setup/timestamp) failed 2 No such file or directory
+2015/03/16 15:53:36 Adding required dependency bzip2: Selecting version 1.0.6-2 for installation.
+2015/03/16 15:53:36 Adding required dependency ca-certificates: Selecting version 2.2-1 for installation.
+2015/03/16 15:53:36 Adding required dependency groff: Selecting version 1.22.3-1 for installation.
+2015/03/16 15:53:36 Adding required dependency less: Selecting version 458-2 for installation.
+2015/03/16 15:53:36 Adding required dependency libargp: Selecting version 20110921-2 for installation.
+2015/03/16 15:53:36 Adding required dependency libattr1: Selecting version 2.4.46-1 for installation.
+2015/03/16 15:53:36 Adding required dependency libblkid1: Selecting version 2.25.2-1 for installation.
+2015/03/16 15:53:36 Adding required dependency libbz2_1: Selecting version 1.0.6-2 for installation.
+2015/03/16 15:53:36 Adding required dependency libffi6: Selecting version 3.2.1-1 for installation.
+2015/03/16 15:53:36 Adding required dependency libgcc1: Selecting version 4.9.2-3 for installation.
+2015/03/16 15:53:36 Adding required dependency libgdbm4: Selecting version 1.11-1 for installation.
+2015/03/16 15:53:36 Adding required dependency libgmp10: Selecting version 6.0.0a-2 for installation.
+2015/03/16 15:53:36 Adding required dependency libiconv: Selecting version 1.14-3 for installation.
+2015/03/16 15:53:36 Adding required dependency libiconv2: Selecting version 1.14-3 for installation.
+2015/03/16 15:53:36 Adding required dependency libintl8: Selecting version 0.19.4-1 for installation.
+2015/03/16 15:53:36 Adding required dependency liblzma5: Selecting version 5.0.8-1 for installation.
+2015/03/16 15:53:36 Adding required dependency libmpfr4: Selecting version 3.1.2-2 for installation.
+2015/03/16 15:53:36 Adding required dependency libncursesw10: Selecting version 5.9-20150307-1 for installation.
+2015/03/16 15:53:36 Adding required dependency libp11-kit0: Selecting version 0.20.7-1 for installation.
+2015/03/16 15:53:36 Adding required dependency libpcre1: Selecting version 8.36-1 for installation.
+2015/03/16 15:53:36 Adding required dependency libpipeline1: Selecting version 1.3.0-3 for installation.
+2015/03/16 15:53:36 Adding required dependency libpopt0: Selecting version 1.16-1 for installation.
+2015/03/16 15:53:36 Adding required dependency libsmartcols1: Selecting version 2.25.2-1 for installation.
+2015/03/16 15:53:36 Adding required dependency libstdc++6: Selecting version 4.9.2-3 for installation.
+2015/03/16 15:53:36 Adding required dependency libtasn1_6: Selecting version 4.2-1 for installation.
+2015/03/16 15:53:36 Adding required dependency libuuid1: Selecting version 2.25.2-1 for installation.
+2015/03/16 15:53:36 Adding required dependency lynx: Selecting version 2.8.7-2 for installation.
+2015/03/16 15:53:36 Adding required dependency p11-kit: Selecting version 0.20.7-1 for installation.
+2015/03/16 15:53:36 Adding required dependency p11-kit-trust: Selecting version 0.20.7-1 for installation.
+2015/03/16 15:53:36 Adding required dependency popt: Selecting version 1.16-1 for installation.
+2015/03/16 15:53:36 Adding required dependency xz: Selecting version 5.0.8-1 for installation.
+2015/03/16 15:53:36 Adding required dependency zlib0: Selecting version 1.2.8-3 for installation.
+2015/03/16 15:53:36 Adding required dependency _update-info-dir: Selecting version 00402-1 for installation.
+2015/03/16 15:53:37 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/_autorebase/_autorebase-001002-1.tar.xz
+2015/03/16 15:53:38 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/_update-info-dir/_update-info-dir-00402-1.tar.bz2
+2015/03/16 15:53:40 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2015/03/16 15:53:41 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+2015/03/16 15:53:42 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/base-files/base-files-4.2-3.tar.xz
+2015/03/16 15:53:57 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/bash/bash-4.3.33-1.tar.xz
+2015/03/16 15:53:59 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/bzip2/bzip2-1.0.6-2.tar.bz2
+2015/03/16 15:54:01 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/ca-certificates/ca-certificates-2.2-1.tar.xz
+2015/03/16 15:54:09 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/coreutils/coreutils-8.23-4.tar.xz
+2015/03/16 15:54:11 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/cygutils/cygutils-1.4.14-1.tar.bz2
+2015/03/16 15:54:19 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/cygwin/cygwin-1.7.35-1.tar.xz
+2015/03/16 15:54:21 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/dash/dash-0.5.8-3.tar.xz
+2015/03/16 15:54:22 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/editrights/editrights-1.03-1.tar.xz
+2015/03/16 15:54:35 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/file/file-5.22-1.tar.xz
+2015/03/16 15:54:38 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/findutils/findutils-4.5.12-1.tar.xz
+2015/03/16 15:54:42 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/gawk/gawk-4.1.1-1.tar.xz
+2015/03/16 15:54:43 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/getent/getent-2.18.90-4.tar.xz
+2015/03/16 15:54:46 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/grep/grep-2.21-2.tar.xz
+2015/03/16 15:54:54 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/groff/groff-1.22.3-1.tar.xz
+2015/03/16 15:55:07 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/gzip/gzip-1.6-1.tar.xz
+2015/03/16 15:55:08 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/hostname/hostname-3.13-1.tar.bz2
+2015/03/16 15:55:11 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/texinfo/info/info-5.2-3.tar.xz
+2015/03/16 15:55:12 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/ipc-utils/ipc-utils-1.0-2.tar.bz2
+2015/03/16 15:55:13 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/less/less-458-2.tar.xz
+2015/03/16 15:55:15 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/libargp/libargp-20110921-2.tar.bz2
+2015/03/16 15:55:16 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/attr/libattr1/libattr1-2.4.46-1.tar.bz2
+2015/03/16 15:55:29 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/util-linux/libblkid1/libblkid1-2.25.2-1.tar.xz
+2015/03/16 15:55:41 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/bzip2/libbz2_1/libbz2_1-1.0.6-2.tar.bz2
+2015/03/16 15:55:54 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/libffi/libffi6/libffi6-3.2.1-1.tar.xz
+2015/03/16 15:56:06 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/gcc/libgcc1/libgcc1-4.9.2-3.tar.xz
+2015/03/16 15:56:07 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/gdbm/libgdbm4/libgdbm4-1.11-1.tar.xz
+2015/03/16 15:56:09 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/gmp/libgmp10/libgmp10-6.0.0a-2.tar.xz
+2015/03/16 15:56:22 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/libiconv/libiconv-1.14-3.tar.xz
+2015/03/16 15:56:28 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/libiconv/libiconv2/libiconv2-1.14-3.tar.xz
+2015/03/16 15:56:29 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/gettext/libintl8/libintl8-0.19.4-1.tar.xz
+2015/03/16 15:56:31 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/xz/liblzma5/liblzma5-5.0.8-1.tar.xz
+2015/03/16 15:56:34 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/mpfr/libmpfr4/libmpfr4-3.1.2-2.tar.xz
+2015/03/16 15:56:36 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/ncurses/libncursesw10/libncursesw10-5.9-20150307-1.tar.xz
+2015/03/16 15:56:39 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/openssl/libopenssl100/libopenssl100-1.0.1k-1.tar.xz
+2015/03/16 15:56:41 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/p11-kit/libp11-kit0/libp11-kit0-0.20.7-1.tar.xz
+2015/03/16 15:56:42 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/pcre/libpcre1/libpcre1-8.36-1.tar.xz
+2015/03/16 15:56:55 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/libpipeline/libpipeline1/libpipeline1-1.3.0-3.tar.xz
+2015/03/16 15:57:07 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/popt/libpopt0/libpopt0-1.16-1.tar.xz
+2015/03/16 15:57:09 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/readline/libreadline7/libreadline7-6.3.8-1.tar.xz
+2015/03/16 15:57:10 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/util-linux/libsmartcols1/libsmartcols1-2.25.2-1.tar.xz
+2015/03/16 15:57:12 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/gcc/libstdc++6/libstdc++6-4.9.2-3.tar.xz
+2015/03/16 15:57:14 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/libtasn1/libtasn1_6/libtasn1_6-4.2-1.tar.xz
+2015/03/16 15:57:15 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/util-linux/libuuid1/libuuid1-2.25.2-1.tar.xz
+2015/03/16 15:57:16 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/login/login-1.11-1.tar.xz
+2015/03/16 15:57:21 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/lynx/lynx-2.8.7-2.tar.bz2
+2015/03/16 15:57:25 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/man-db/man-db-2.6.7-2.tar.xz
+2015/03/16 15:57:27 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/mintty/mintty-1.2-beta1-1.tar.bz2
+2015/03/16 15:57:30 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/openssl/openssl-1.0.1k-1.tar.xz
+2015/03/16 15:57:32 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/p11-kit/p11-kit-0.20.7-1.tar.xz
+2015/03/16 15:57:33 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/p11-kit/p11-kit-trust/p11-kit-trust-0.20.7-1.tar.xz
+2015/03/16 15:57:35 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/popt/popt-1.16-1.tar.xz
+2015/03/16 15:57:48 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/rebase/rebase-4.4.1-1.tar.bz2
+2015/03/16 15:57:59 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/run/run-1.3.3-1.tar.xz
+2015/03/16 15:58:12 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/sed/sed-4.2.2-3.tar.bz2
+2015/03/16 15:58:26 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/tar/tar-1.27.1-1.tar.xz
+2015/03/16 15:58:27 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/ncurses/terminfo/terminfo-5.9-20150307-1.tar.xz
+2015/03/16 15:58:40 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/tzcode/tzcode-2014j-1.tar.xz
+2015/03/16 15:58:55 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/util-linux/util-linux-2.25.2-1.tar.xz
+2015/03/16 15:59:08 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/vim/vim-minimal/vim-minimal-7.4.663-1.tar.xz
+2015/03/16 15:59:10 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/which/which-2.20-2.tar.bz2
+2015/03/16 15:59:24 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/xz/xz-5.0.8-1.tar.xz
+2015/03/16 15:59:25 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/zlib/zlib0/zlib0-1.2.8-3.tar.xz
+2015/03/16 15:59:26 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/_autorebase/_autorebase-001002-1.tar.xz
+2015/03/16 15:59:26 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/_update-info-dir/_update-info-dir-00402-1.tar.bz2
+2015/03/16 15:59:26 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2015/03/16 15:59:26 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+2015/03/16 15:59:26 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/base-files/base-files-4.2-3.tar.xz
+2015/03/16 15:59:27 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/bash/bash-4.3.33-1.tar.xz
+2015/03/16 15:59:27 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/bzip2/bzip2-1.0.6-2.tar.bz2
+2015/03/16 15:59:27 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/ca-certificates/ca-certificates-2.2-1.tar.xz
+2015/03/16 15:59:27 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/coreutils/coreutils-8.23-4.tar.xz
+2015/03/16 15:59:28 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/cygutils/cygutils-1.4.14-1.tar.bz2
+2015/03/16 15:59:28 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/cygwin/cygwin-1.7.35-1.tar.xz
+2015/03/16 15:59:29 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/dash/dash-0.5.8-3.tar.xz
+2015/03/16 15:59:29 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/editrights/editrights-1.03-1.tar.xz
+2015/03/16 15:59:29 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/file/file-5.22-1.tar.xz
+2015/03/16 15:59:29 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/findutils/findutils-4.5.12-1.tar.xz
+2015/03/16 15:59:29 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/gawk/gawk-4.1.1-1.tar.xz
+2015/03/16 15:59:30 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/getent/getent-2.18.90-4.tar.xz
+2015/03/16 15:59:30 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/grep/grep-2.21-2.tar.xz
+2015/03/16 15:59:30 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/groff/groff-1.22.3-1.tar.xz
+2015/03/16 15:59:32 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/gzip/gzip-1.6-1.tar.xz
+2015/03/16 15:59:32 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/hostname/hostname-3.13-1.tar.bz2
+2015/03/16 15:59:32 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/texinfo/info/info-5.2-3.tar.xz
+2015/03/16 15:59:32 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/ipc-utils/ipc-utils-1.0-2.tar.bz2
+2015/03/16 15:59:32 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/less/less-458-2.tar.xz
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/libargp/libargp-20110921-2.tar.bz2
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/attr/libattr1/libattr1-2.4.46-1.tar.bz2
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/util-linux/libblkid1/libblkid1-2.25.2-1.tar.xz
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/bzip2/libbz2_1/libbz2_1-1.0.6-2.tar.bz2
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/libffi/libffi6/libffi6-3.2.1-1.tar.xz
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/gcc/libgcc1/libgcc1-4.9.2-3.tar.xz
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/gdbm/libgdbm4/libgdbm4-1.11-1.tar.xz
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/gmp/libgmp10/libgmp10-6.0.0a-2.tar.xz
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/libiconv/libiconv-1.14-3.tar.xz
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/libiconv/libiconv2/libiconv2-1.14-3.tar.xz
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/gettext/libintl8/libintl8-0.19.4-1.tar.xz
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/xz/liblzma5/liblzma5-5.0.8-1.tar.xz
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/mpfr/libmpfr4/libmpfr4-3.1.2-2.tar.xz
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/ncurses/libncursesw10/libncursesw10-5.9-20150307-1.tar.xz
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/openssl/libopenssl100/libopenssl100-1.0.1k-1.tar.xz
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/p11-kit/libp11-kit0/libp11-kit0-0.20.7-1.tar.xz
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/pcre/libpcre1/libpcre1-8.36-1.tar.xz
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/libpipeline/libpipeline1/libpipeline1-1.3.0-3.tar.xz
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/readline/libreadline7/libreadline7-6.3.8-1.tar.xz
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/util-linux/libsmartcols1/libsmartcols1-2.25.2-1.tar.xz
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/gcc/libstdc++6/libstdc++6-4.9.2-3.tar.xz
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/libtasn1/libtasn1_6/libtasn1_6-4.2-1.tar.xz
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/util-linux/libuuid1/libuuid1-2.25.2-1.tar.xz
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/login/login-1.11-1.tar.xz
+2015/03/16 15:59:33 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/lynx/lynx-2.8.7-2.tar.bz2
+2015/03/16 15:59:34 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/man-db/man-db-2.6.7-2.tar.xz
+2015/03/16 15:59:35 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/mintty/mintty-1.2-beta1-1.tar.bz2
+2015/03/16 15:59:35 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/openssl/openssl-1.0.1k-1.tar.xz
+2015/03/16 15:59:35 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/p11-kit/p11-kit-0.20.7-1.tar.xz
+2015/03/16 15:59:35 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/p11-kit/p11-kit-trust/p11-kit-trust-0.20.7-1.tar.xz
+2015/03/16 15:59:35 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/popt/popt-1.16-1.tar.xz
+2015/03/16 15:59:35 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/rebase/rebase-4.4.1-1.tar.bz2
+2015/03/16 15:59:35 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/run/run-1.3.3-1.tar.xz
+2015/03/16 15:59:35 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/sed/sed-4.2.2-3.tar.bz2
+2015/03/16 15:59:35 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/tar/tar-1.27.1-1.tar.xz
+2015/03/16 15:59:36 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/ncurses/terminfo/terminfo-5.9-20150307-1.tar.xz
+2015/03/16 15:59:36 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/tzcode/tzcode-2014j-1.tar.xz
+2015/03/16 15:59:38 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/util-linux/util-linux-2.25.2-1.tar.xz
+2015/03/16 15:59:38 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/vim/vim-minimal/vim-minimal-7.4.663-1.tar.xz
+2015/03/16 15:59:38 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/which/which-2.20-2.tar.bz2
+2015/03/16 15:59:38 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/xz/xz-5.0.8-1.tar.xz
+2015/03/16 15:59:39 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/zlib/zlib0/zlib0-1.2.8-3.tar.xz
+2015/03/16 15:59:39 Changing gid back to original
+2015/03/16 15:59:39 running: C:\cygwin64\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2015/03/16 15:59:55 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/000-cygwin-post-install.sh"
+2015/03/16 15:59:56 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/update-info-dir.sh"
+2015/03/16 15:59:58 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/coreutils.sh"
+2015/03/16 15:59:59 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/bash.sh"
+2015/03/16 16:00:00 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-mketc.sh"
+2015/03/16 16:00:00 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-profile.sh"
+2015/03/16 16:00:02 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/ca-certificates.sh"
+2015/03/16 16:00:04 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/lynx.sh"
+2015/03/16 16:00:04 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/man-db.sh"
+2015/03/16 16:00:04 Changing gid to Administrators
+2015/03/16 16:00:12 note: Installation Complete
+2015/03/16 16:00:12 Ending cygwin install
+2015/05/06 15:58:23 Starting cygwin install, version 2.870
+2015/05/06 15:58:23 User has backup/restore rights
+2015/05/06 15:58:23 Current Directory: C:\Users\BrosDs\Downloads
+2015/05/06 15:58:23 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2015/05/06 15:58:27 source: network install
+2015/05/06 15:58:28 root: C:\cygwin64 system
+2015/05/06 15:58:29 Selected local directory: C:\Users\BrosDs\Downloads
+2015/05/06 15:58:30 net: Direct
+2015/05/06 15:58:32 site: http://cygwin.mirror.constant.com/
+2015/05/06 15:59:23 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/_update-info-dir/_update-info-dir-00423-1.tar.bz2
+2015/05/06 15:59:25 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/ca-certificates/ca-certificates-2.3-1.tar.xz
+2015/05/06 15:59:42 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/cygwin/cygwin-2.0.1-1.tar.xz
+2015/05/06 15:59:43 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/util-linux/libblkid1/libblkid1-2.25.2-2.tar.xz
+2015/05/06 15:59:44 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/xz/liblzma5/liblzma5-5.2.1-1.tar.xz
+2015/05/06 15:59:56 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/ncurses/libncursesw10/libncursesw10-5.9-20150404-1.tar.xz
+2015/05/06 15:59:59 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/openssl/libopenssl100/libopenssl100-1.0.2a-1.tar.xz
+2015/05/06 16:00:01 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/pcre/libpcre1/libpcre1-8.37-1.tar.xz
+2015/05/06 16:00:02 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/libpipeline/libpipeline1/libpipeline1-1.4.0-1.tar.xz
+2015/05/06 16:00:03 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/util-linux/libsmartcols1/libsmartcols1-2.25.2-2.tar.xz
+2015/05/06 16:00:03 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/libtasn1/libtasn1_6/libtasn1_6-4.4-1.tar.xz
+2015/05/06 16:00:04 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/util-linux/libuuid1/libuuid1-2.25.2-2.tar.xz
+2015/05/06 16:00:17 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/man-db/man-db-2.7.1-1.tar.xz
+2015/05/06 16:00:20 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/openssl/openssl-1.0.2a-1.tar.xz
+2015/05/06 16:00:21 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/ncurses/terminfo/terminfo-5.9-20150404-1.tar.xz
+2015/05/06 16:00:35 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/util-linux/util-linux-2.25.2-2.tar.xz
+2015/05/06 16:00:48 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/vim/vim-minimal/vim-minimal-7.4.692-1.tar.xz
+2015/05/06 16:00:49 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/xz/xz-5.2.1-1.tar.xz
+2015/05/06 16:00:51 Running preremove script for  _update-info-dir
+2015/05/06 16:00:51 Running preremove script for  ca-certificates
+2015/05/06 16:00:51 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/preremove/ca-certificates.sh"
+2015/05/06 16:00:51 Running preremove script for  cygwin
+2015/05/06 16:00:51 Running preremove script for  libblkid1
+2015/05/06 16:00:51 Running preremove script for  liblzma5
+2015/05/06 16:00:51 Running preremove script for  libncursesw10
+2015/05/06 16:00:51 Running preremove script for  libopenssl100
+2015/05/06 16:00:51 Running preremove script for  libpcre1
+2015/05/06 16:00:51 Running preremove script for  libpipeline1
+2015/05/06 16:00:51 Running preremove script for  libsmartcols1
+2015/05/06 16:00:51 Running preremove script for  libtasn1_6
+2015/05/06 16:00:51 Running preremove script for  libuuid1
+2015/05/06 16:00:51 Running preremove script for  man-db
+2015/05/06 16:00:51 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/preremove/man-db.sh"
+2015/05/06 16:00:51 Running preremove script for  openssl
+2015/05/06 16:00:51 Running preremove script for  terminfo
+2015/05/06 16:00:51 Running preremove script for  util-linux
+2015/05/06 16:00:51 Running preremove script for  vim-minimal
+2015/05/06 16:00:51 Running preremove script for  xz
+2015/05/06 16:00:51 Uninstalling _update-info-dir
+2015/05/06 16:00:51 Uninstalling ca-certificates
+2015/05/06 16:00:51 Uninstalling cygwin
+2015/05/06 16:00:51 Uninstalling libblkid1
+2015/05/06 16:00:51 Uninstalling liblzma5
+2015/05/06 16:00:51 Uninstalling libncursesw10
+2015/05/06 16:00:51 Uninstalling libopenssl100
+2015/05/06 16:00:51 Uninstalling libpcre1
+2015/05/06 16:00:51 Uninstalling libpipeline1
+2015/05/06 16:00:51 Uninstalling libsmartcols1
+2015/05/06 16:00:51 Uninstalling libtasn1_6
+2015/05/06 16:00:51 Uninstalling libuuid1
+2015/05/06 16:00:51 Uninstalling man-db
+2015/05/06 16:00:52 Uninstalling openssl
+2015/05/06 16:00:52 Uninstalling terminfo
+2015/05/06 16:00:52 Uninstalling util-linux
+2015/05/06 16:00:52 Uninstalling vim-minimal
+2015/05/06 16:00:52 Uninstalling xz
+2015/05/06 16:00:52 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/_update-info-dir/_update-info-dir-00423-1.tar.bz2
+2015/05/06 16:00:52 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/ca-certificates/ca-certificates-2.3-1.tar.xz
+2015/05/06 16:00:52 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/cygwin/cygwin-2.0.1-1.tar.xz
+2015/05/06 16:00:53 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/util-linux/libblkid1/libblkid1-2.25.2-2.tar.xz
+2015/05/06 16:00:53 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/xz/liblzma5/liblzma5-5.2.1-1.tar.xz
+2015/05/06 16:00:53 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/ncurses/libncursesw10/libncursesw10-5.9-20150404-1.tar.xz
+2015/05/06 16:00:53 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/openssl/libopenssl100/libopenssl100-1.0.2a-1.tar.xz
+2015/05/06 16:00:53 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/pcre/libpcre1/libpcre1-8.37-1.tar.xz
+2015/05/06 16:00:53 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/libpipeline/libpipeline1/libpipeline1-1.4.0-1.tar.xz
+2015/05/06 16:00:53 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/util-linux/libsmartcols1/libsmartcols1-2.25.2-2.tar.xz
+2015/05/06 16:00:53 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/libtasn1/libtasn1_6/libtasn1_6-4.4-1.tar.xz
+2015/05/06 16:00:53 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/util-linux/libuuid1/libuuid1-2.25.2-2.tar.xz
+2015/05/06 16:00:53 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/man-db/man-db-2.7.1-1.tar.xz
+2015/05/06 16:00:54 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/openssl/openssl-1.0.2a-1.tar.xz
+2015/05/06 16:00:54 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/ncurses/terminfo/terminfo-5.9-20150404-1.tar.xz
+2015/05/06 16:00:54 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/util-linux/util-linux-2.25.2-2.tar.xz
+2015/05/06 16:00:55 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/vim/vim-minimal/vim-minimal-7.4.692-1.tar.xz
+2015/05/06 16:00:55 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/xz/xz-5.2.1-1.tar.xz
+2015/05/06 16:00:55 Changing gid back to original
+2015/05/06 16:00:55 running: C:\cygwin64\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2015/05/06 16:01:09 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/update-info-dir.sh"
+2015/05/06 16:01:12 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/ca-certificates.sh"
+2015/05/06 16:01:15 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/man-db.sh"
+2015/05/06 16:01:15 Changing gid to Administrators
+2015/05/06 16:01:45 note: Installation Complete
+2015/05/06 16:01:45 Ending cygwin install
+2015/05/11 13:10:22 Starting cygwin install, version 2.870
+2015/05/11 13:10:22 User has backup/restore rights
+2015/05/11 13:10:22 Current Directory: C:\Users\BrosDs\Downloads
+2015/05/11 13:10:22 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2015/05/11 13:10:26 source: network install
+2015/05/11 13:10:33 root: C:\cygwin64 system
+2015/05/11 13:10:34 Selected local directory: C:\Users\BrosDs\Downloads
+2015/05/11 13:10:35 net: Direct
+2015/05/11 13:10:37 site: http://cygwin.mirror.constant.com/
+2015/05/11 13:10:55 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/_update-info-dir/_update-info-dir-00425-1.tar.bz2
+2015/05/11 13:11:03 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/cygwin/cygwin-2.0.2-1.tar.xz
+2015/05/11 13:11:05 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/file/file-5.22-2.tar.xz
+2015/05/11 13:11:07 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/vim/vim-minimal/vim-minimal-7.4.726-1.tar.xz
+2015/05/11 13:11:08 Running preremove script for  _update-info-dir
+2015/05/11 13:11:08 Running preremove script for  cygwin
+2015/05/11 13:11:08 Running preremove script for  file
+2015/05/11 13:11:08 Running preremove script for  vim-minimal
+2015/05/11 13:11:08 Uninstalling _update-info-dir
+2015/05/11 13:11:08 Uninstalling cygwin
+2015/05/11 13:11:08 Uninstalling file
+2015/05/11 13:11:08 Uninstalling vim-minimal
+2015/05/11 13:11:08 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/_update-info-dir/_update-info-dir-00425-1.tar.bz2
+2015/05/11 13:11:08 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/cygwin/cygwin-2.0.2-1.tar.xz
+2015/05/11 13:11:08 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/file/file-5.22-2.tar.xz
+2015/05/11 13:11:08 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/vim/vim-minimal/vim-minimal-7.4.726-1.tar.xz
+2015/05/11 13:11:08 Changing gid back to original
+2015/05/11 13:11:08 running: C:\cygwin64\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2015/05/11 13:11:20 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/update-info-dir.sh"
+2015/05/11 13:11:24 Changing gid to Administrators
+2015/05/11 13:11:49 note: Installation Complete
+2015/05/11 13:11:49 Ending cygwin install

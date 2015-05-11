@@ -37,7 +37,7 @@ def signLogs():
             content = content_file.read().encode('utf-8')
             dig = hashlib.sha512(content).hexdigest()
             signedLog = open(str(index)+".txt","w")
-            signedLog.write(dig+"#"+content.decode('utf-8'))
+            signedLog.write(dig+"#DIGESTEND#"+content.decode('utf-8'))
             signedLog.close()
     log_list.close()
 
@@ -45,5 +45,5 @@ def signLogs():
 
 if __name__ == "__main__":
     #findLog()
-    #signLogs()
+    signLogs()
     server.checkLogs()

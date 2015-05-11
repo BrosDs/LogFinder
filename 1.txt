@@ -1,4 +1,4 @@
-3ac9edff3534e0c7ab1a2f25bbaa1bbb81d75fb342bb1fb25f6f56358f3eb2eee39487de2744538ab70e7c769ec875ff191b8e705ec9fb71cbbcac5374563dbc#2015/03/16 15:52:50 Starting cygwin install, version 2.870
+f4a0efb7eecd1a7716d2e1215355bfc92ce496e92427686f9e6df4e5b7ba0008eba2dba33e9d0ccc3fed73e106f8b45fb1256d5fc8ae63cc279c22ee67709ce6#DIGESTEND#2015/03/16 15:52:50 Starting cygwin install, version 2.870
 2015/03/16 15:52:50 User has backup/restore rights
 2015/03/16 15:52:50 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
 2015/03/16 15:52:50 Current Directory: C:\Users\BrosDs\Downloads
@@ -281,3 +281,34 @@
 2015/05/06 16:01:15 Changing gid to Administrators
 2015/05/06 16:01:45 note: Installation Complete
 2015/05/06 16:01:45 Ending cygwin install
+2015/05/11 13:10:22 Starting cygwin install, version 2.870
+2015/05/11 13:10:22 User has backup/restore rights
+2015/05/11 13:10:22 Current Directory: C:\Users\BrosDs\Downloads
+2015/05/11 13:10:22 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2015/05/11 13:10:26 source: network install
+2015/05/11 13:10:33 root: C:\cygwin64 system
+2015/05/11 13:10:34 Selected local directory: C:\Users\BrosDs\Downloads
+2015/05/11 13:10:35 net: Direct
+2015/05/11 13:10:37 site: http://cygwin.mirror.constant.com/
+2015/05/11 13:10:55 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/_update-info-dir/_update-info-dir-00425-1.tar.bz2
+2015/05/11 13:11:03 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/cygwin/cygwin-2.0.2-1.tar.xz
+2015/05/11 13:11:05 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/file/file-5.22-2.tar.xz
+2015/05/11 13:11:07 Downloaded C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/vim/vim-minimal/vim-minimal-7.4.726-1.tar.xz
+2015/05/11 13:11:08 Running preremove script for  _update-info-dir
+2015/05/11 13:11:08 Running preremove script for  cygwin
+2015/05/11 13:11:08 Running preremove script for  file
+2015/05/11 13:11:08 Running preremove script for  vim-minimal
+2015/05/11 13:11:08 Uninstalling _update-info-dir
+2015/05/11 13:11:08 Uninstalling cygwin
+2015/05/11 13:11:08 Uninstalling file
+2015/05/11 13:11:08 Uninstalling vim-minimal
+2015/05/11 13:11:08 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/_update-info-dir/_update-info-dir-00425-1.tar.bz2
+2015/05/11 13:11:08 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/cygwin/cygwin-2.0.2-1.tar.xz
+2015/05/11 13:11:08 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/file/file-5.22-2.tar.xz
+2015/05/11 13:11:08 Extracting from file://C:\Users\BrosDs\Downloads/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86_64/release/vim/vim-minimal/vim-minimal-7.4.726-1.tar.xz
+2015/05/11 13:11:08 Changing gid back to original
+2015/05/11 13:11:08 running: C:\cygwin64\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2015/05/11 13:11:20 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/update-info-dir.sh"
+2015/05/11 13:11:24 Changing gid to Administrators
+2015/05/11 13:11:49 note: Installation Complete
+2015/05/11 13:11:49 Ending cygwin install
